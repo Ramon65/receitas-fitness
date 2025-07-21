@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Receitas Fitness para Emagrecer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 40px 30px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #27ae60;
+        }
+        p, ul {
+            font-size: 16px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        .ebook-image {
+            width: 100%;
+            max-width: 400px;
+            display: block;
+            margin: 30px auto;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .highlight {
+            background-color: #eafaf1;
+            padding: 15px;
+            border-left: 4px solid #27ae60;
+            margin-top: 30px;
+        }
+        .cta-button {
+            display: block;
+            width: fit-content;
+            margin: 30px auto;
+            padding: 15px 30px;
+            background-color: #27ae60;
+            color: #fff;
+            text-decoration: none;
+            font-size: 18px;
+            font-weight: bold;
+            border-radius: 5px;
+            transition: background 0.3s;
+        }
+        .cta-button:hover {
+            background-color: #219150;
+        }
+        footer {
+            text-align: center;
+            font-size: 14px;
+            margin-top: 50px;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Transforme sua Alimentação e Emagreça com Saúde</h1>
+        <p>Você está em busca de uma forma prática, saudável e saborosa de emagrecer? Então este eBook é para você! Criado especialmente para quem deseja perder peso sem passar fome e sem abrir mão do prazer de comer bem.</p>
+
+        <img src="https://via.placeholder.com/400x600?text=Receitas+Fitness" alt="Capa do Ebook Receitas Fitness" class="ebook-image" />
+
+        <div class="highlight">
+            <h2>O que você vai encontrar no eBook:</h2>
+            <ul>
+                <li>Receitas práticas para café da manhã, almoço, jantar e lanches</li>
+                <li>Opções doces saudáveis para controlar a vontade de comer açúcar</li>
+                <li>Dicas extras de hábitos saudáveis para potencializar os resultados</li>
+                <li>Ingredientes acessíveis e fáceis de preparar</li>
+            </ul>
+        </div>
+
+        <a href="https://www.kwify.com/seu-produto" class="cta-button" target="_blank">Quero meu eBook Agora!</a>
+
+        <p>Não é apenas sobre perder peso, mas sobre se sentir bem com você mesmo e ter energia para viver melhor. Comece sua jornada agora com nosso eBook exclusivo.</p>
+
+        <footer>
+            &copy; 2025 - Receitas Fitness para Emagrecer. Todos os direitos reservados.
+        </footer>
+    </div>
+</body>
+</html>
